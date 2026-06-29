@@ -1,6 +1,6 @@
 # EloCalc
 
-A tiny chess Elo calculator for iPhone, iPad, and Mac.
+A small chess Elo calculator for iPhone and iPad.
 
 ## Support
 
